@@ -51,11 +51,11 @@ This repository includes `universe.sql`, a complete PostgreSQL database dump fro
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
 .
-├── schema.sql          # DDL script for the Olist E-Commerce database
-├── universe.sql        # DDL script for the FreeDocamp Universe project
-├── erd_diagram.png     # Entity Relationship Diagram for the Olist schema
-└── README.md           # This documentation file
+├── schema.sql          
+├── universe.sql        
+├── erd_diagram.png     
+└── README.md           
